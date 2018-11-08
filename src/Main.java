@@ -5,4 +5,5 @@ public class Main // erste Klasse die automatisch beim öffnen eines neuen Proje
     {
         System.out.println("Hello World!"); // zeigt uns an was er später ausgeben soll
         System.out.println("Sabrina"); // zeigt uns an was er später ausgeben soll
+    }
 }
